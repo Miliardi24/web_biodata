@@ -1,0 +1,36 @@
+
+.kartu {
+  background-color: #fff;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 50px;
+      box-shadow: 0 0.25rem 0.75rem black;
+transition: all .3s;
+} 
+.h {
+  padding: 30px;
+}
+tbody {
+font-size: 22px;
+
+}
+  .biodata {
+  margin-top: 20px;
+}
+img.gambar {
+float: left;
+margin: 10px;
+margin-top: -240px;
+height: 250px;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  float: right;
+
+}
